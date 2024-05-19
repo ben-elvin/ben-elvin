@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I love unraveling hidden stories in data, and a good challenge is always my cup of tea. Whether it's teaching data science or working on projects, I'm equally comfortable tackling problems head-on or explaining them to others.  Feel free to browse my projects and share your feedback!
+I love unraveling hidden stories in data, and a good challenge is always my cup of tea. My skillset allows me to both conquer data challenges and explain them in a clear, understandable way.  Feel free to browse my projects and share your feedback!
 
 ---
 
